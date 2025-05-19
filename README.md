@@ -1,6 +1,6 @@
 # ADJ 팀 졸업작품 블록도
 
-![블록도](https://github.com/user-attachments/assets/97cdd6db-29be-4063-96c9-faba6eb2cd21)
+![캡스톤디자인](https://github.com/user-attachments/assets/016ecac8-ac3b-49b5-825a-96abe30fd12e)
 
 
 ROS2를 사용하여 외부 컴퓨팅 리소스를 사용.
